@@ -2,7 +2,7 @@
     <img 
         :src="source" 
         alt="Hypic" 
-        class="w-full rounded-lg shadow-xl cursor-pointer transition-transform duration-500 ease-in-out transform hover:scale-101 animate-fade-in" 
+        class="w-full rounded-lg cursor-pointer transition-transform duration-500 ease-in-out transform hover:scale-101 animate-fade-in" 
     />
 </template>
 

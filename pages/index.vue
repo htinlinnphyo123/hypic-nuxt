@@ -21,7 +21,7 @@
   </main>
 </template>
 <script setup>
-import logo from "@/assets/img/logo.png";
+import logo from "@/assets/img/second/logo.jpeg";
 import Navbar from "@/components/Header/NavBar.vue";
 import Title from "../components/Text/Title.vue";
 import Description from "../components/Text/Description.vue";
